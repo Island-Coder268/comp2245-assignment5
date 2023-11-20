@@ -1,3 +1,3 @@
-# COMP2245 Assignment 5
+# COMP2245 Lab 5
 
-This is Assignment 5 for Joshua Gardiner on PHP and MySQL
+This is Lab 5 for <Your Name> on PHP and MySQL
