@@ -1,18 +1,8 @@
-/* Add your own styles */
-
 body {
     font-family: sans-serif;
     margin: 0;
     padding: 0;
     background-color: #FFD7AA;
-  }
-  
-  #controls {
-    text-align: center;
-  }
-  
-  #result {
-    margin: 20px;
   }
   
   /* Header styles */
@@ -28,18 +18,34 @@ body {
     margin-bottom: 0;
   }
   
-  /* Search bar styles */
+  #controls {
+    text-align: center;
+  }
+  
   #country {
     width: 300px;
     padding: 5px;
     border: 1px solid #ccc;
   }
-  
+
   #lookup {
     padding: 5px 10px;
-    background-color: #008000;
+    background-color: #008000; 
     color: white;
     border: none;
     cursor: pointer;
   }
+  
+  #lookupCities { 
+    padding: 5px 10px;
+    background-color: #0099FF; 
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #result {
+    margin: 20px;
+  }
+  
   
