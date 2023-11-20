@@ -1,6 +1,5 @@
 /* Add your own styles */
 
-
 body {
     font-family: sans-serif;
     margin: 0;
@@ -9,10 +8,6 @@ body {
   }
   
   #controls {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     text-align: center;
   }
   
@@ -33,28 +28,18 @@ body {
     margin-bottom: 0;
   }
   
-
+  /* Search bar styles */
   #country {
-    width: 400px;
-    padding: 10px;
+    width: 300px;
+    padding: 5px;
     border: 1px solid #ccc;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 16px;
   }
   
   #lookup {
-    padding: 10px 20px;
+    padding: 5px 10px;
     background-color: #008000;
     color: white;
     border: none;
     cursor: pointer;
   }
   
-
-  #controls {
-    position: absolute;
-    top: calc(20% + 20px); 
-    left: 50%;
-    transform: translateX(-50%);
-  }
-   
